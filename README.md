@@ -1,12 +1,13 @@
 # Prototyping
-The prototype mobile app for case study, Bagsbycanny
+The prototype mobile app for the case study, Bagsbycanny
 
 This was my final business analysis project on Bagsbycanny called Prototyping.
+
 A prototype is an early sample, model, or release of a product built to test a concept or process. It is generally used to evaluate a new design to enhance precision by analysts and users. A prototype app is a preliminary visual mock-up that looks like a real app, and demonstrates the app's fundamental design and function but doesn't contain any working code.
 
-I created a mobile shopping app for the business in relation with the order process flow using the Pencil software application. I started with the welcome page ensuring buyers read and understand the terms & conditions of shopping on the app, to the sign up page for new customers, to the log-in page for existing customers, to the home page for all items, to the categories page for each product section, to the cart page where items to be purchased are added, to the summary page for payment of orders and lastly to the checkout page where customers see and track the status of their confirmed and successfully placed orders.
+I created a mobile shopping app for the business in relation to the order process flow using the Pencil software application. I started with the welcome page ensuring buyers read and understand the terms & conditions of shopping on the app, to the sign-up page for new customers, to the log-in page for existing customers, to the home page for all items, to the categories page for each product section, to the cart page where items to be purchased are added, to the summary page for payment of orders and lastly to the checkout page where customers see and track the status of their confirmed and successfully placed orders.
 
-This prototype would give the business an enhanced precision of how shopping on the mobile application would look like, also giving her a visual look of order purchase process.
+This prototype would give the business an enhanced precision of how shopping on the mobile application would look like, also giving her a visual look at the order purchase process.
 
 ![app_page](https://user-images.githubusercontent.com/94903456/205053434-367580e4-b080-4262-ac16-156906f05a00.png)
 ![welcome_page](https://user-images.githubusercontent.com/94903456/205053039-8f8d73bb-b1cd-48c1-9dd6-fbc83aed650c.png)
