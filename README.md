@@ -1,7 +1,7 @@
 # Prototyping
 The prototype mobile app for the case study, Bagsbycanny
 
-This was my final business analysis project on Bagsbycanny called Prototyping.
+This was my final business analysis project on Bagsbycanny called Prototyping. The goal of this project was to develop a prototype app as one of the business solutions identified for Bagsbycanny.
 
 A prototype is an early sample, model, or release of a product built to test a concept or process. It is generally used to evaluate a new design to enhance precision by analysts and users. A prototype app is a preliminary visual mock-up that looks like a real app, and demonstrates the app's fundamental design and function but doesn't contain any working code.
 
